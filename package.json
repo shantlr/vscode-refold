@@ -3,8 +3,13 @@
   "displayName": "refold",
   "description": "",
   "version": "0.0.1",
+  "publisher": "shantlr",
   "engines": {
     "vscode": "^1.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shantlr/vscode-refold"
   },
   "categories": [
     "Other"
